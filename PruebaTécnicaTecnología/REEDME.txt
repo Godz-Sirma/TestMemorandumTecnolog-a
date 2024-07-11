@@ -1,0 +1,28 @@
+--- Aclaraciones: 
+- La prueba técnica ha sido realizada sobre texto plano en una máquina sin JDE ni JVM,
+por lo que se trata de un pseudocódigo con la máxima de parecerse lo máximo posible código funcional.
+
+- No se han incluido comentarios puesto que considero que un código legible y de calidad no necesita
+de comentarios (Excepto una complejidad extrema, que no es el caso).
+
+- En un entorno laboral, todo mi código (salvo que se pida lo contrario) estará desarrollado
+utilizando el inglés como referencia, por lo que variables, funciones y clases se regirán por este
+idioma dado que estoy acostumbrado a trabajar en ámbitos internacionales y con proyectos que 
+posiblemente se retomen en un futuro sin conocer los idiomas que puedan conocer los compañeros.
+
+- No se han tenido en cuenta posibles factores como la introducción maliciosa de código, valores
+erróneos o que no tuviesen el formato correspondiente para cada ejercicio.
+
+--- Asunciones tomadas: 
+- Al no necesitar interfaz gráfica, entiendo que lo que debe devolver cada ejecución son los datos
+solicitados, en su formato correspondiente.
+
+- Se han creado las clases como si formasen parte de un proceso más amplio, suponiendo que todos los
+valores que recibo son correctos en formato y que devolveré una respuesta con el formato solicitado.
+
+
+--- Instrucciones:
+- Cada clase java cuenta con su propio main.
+
+- En caso de tratarse de código y no pseudocódigo, debería lanzarse cada clase introduciendo por
+argumento los valores que se van a utilizar.
